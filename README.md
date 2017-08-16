@@ -3,7 +3,7 @@
 # About
 
 A curated list of awesome Design Twitter accounts worth following inspired by [Awesome iOS Twitter](https://github.com/carolanitz/Awesome-iOS-Twitter)
-The list is divided into the categories People, Conferences and Blogs. There is no defined order in each category. If you want to contribute, please read [CONTRIBUTING.md](https://github.com/nefarianblack/Awesome-Design-Twitter/blob/master/CONTRIBUTING.md).
+The list is divided into the categories People, Agencies, Conferences and Blogs. There is no defined order in each category. If you want to contribute, please read [CONTRIBUTING.md](https://github.com/nefarianblack/Awesome-Design-Twitter/blob/master/CONTRIBUTING.md).
 
 Feel free to add other follow worthy Twitter accounts.
 
